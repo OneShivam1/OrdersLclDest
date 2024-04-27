@@ -1,2 +1,2 @@
 # OrdersLclDest
-Orders with local destinations
+Display Northwind Orders with a local destinations with no configurations on cloud foundry
